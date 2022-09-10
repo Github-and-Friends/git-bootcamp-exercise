@@ -15,7 +15,10 @@ body {
 button {
     padding: .8rem 1rem;
     outline: none;
+<< fixed-spelling-color
     background: rgb(40, 2, 255);
+    background: rgb(29, 0, 245);
+>> main
     border: none;
     border-radius: 2rem;
     display: block;
