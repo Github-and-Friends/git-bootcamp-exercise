@@ -2,5 +2,5 @@
 
 const button = document.querySelector("button")
 button.addEventListener('click', () => {
-  alert("Yay, I love puppies")
+  alert("Yay, I love snakes!")
 })
